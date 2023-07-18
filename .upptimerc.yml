@@ -14,5 +14,13 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Website
+      href: https://ihs-headache.org/en/
     - title: YouTube
       href: https://www.youtube.com/@internationalheadachesocie9108
+    - title: Twitter
+      href: https://twitter.com/ihs_official
+    - title: Instagram
+      href: https://www.instagram.com/ihsheadache
+    - title: Twitter
+      href: https://www.facebook.com/IHSheadache/
