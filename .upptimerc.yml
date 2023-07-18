@@ -8,7 +8,7 @@ sites:
 status-website:
   cname: ihs.status.migraine.kr
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status | International Headache Society
+  name: Status | IHS
   introTitle: "**Status** for International Headache Society"
   introMessage: International Headache Society WebMonitor
   navbar:
@@ -22,5 +22,5 @@ status-website:
       href: https://twitter.com/ihs_official
     - title: Instagram
       href: https://www.instagram.com/ihsheadache
-    - title: Twitter
+    - title: Facebook
       href: https://www.facebook.com/IHSheadache/
