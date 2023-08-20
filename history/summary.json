@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ihs-headache.org.ico",
     "slug": "ihs-headache-org",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 3156,
-    "timeDay": 3747,
-    "timeWeek": 3250,
-    "timeMonth": 3144,
-    "timeYear": 3156,
+    "uptimeYear": "99.82%",
+    "time": 3158,
+    "timeDay": 3227,
+    "timeWeek": 3254,
+    "timeMonth": 3155,
+    "timeYear": 3158,
     "dailyMinutesDown": {
       "2023-08-11": 85
     }
