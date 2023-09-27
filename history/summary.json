@@ -4,7 +4,7 @@
     "url": "https://ihs-headache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ihs-headache.org.ico",
     "slug": "ihs-headache-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 3235,
     "timeYear": 3200,
     "dailyMinutesDown": {
+      "2023-09-27": 0,
       "2023-08-11": 85
     }
   }
