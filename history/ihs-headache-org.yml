@@ -1,7 +1,7 @@
 url: https://ihs-headache.org/
-status: up
-code: 200
-responseTime: 4072
-lastUpdated: 2023-09-27T23:06:06.397Z
+status: down
+code: 500
+responseTime: 1208
+lastUpdated: 2023-09-28T09:12:46.364Z
 startTime: 2023-07-18T12:33:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
