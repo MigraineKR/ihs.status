@@ -4,6 +4,8 @@ repo: ihs.status
 sites:
   - name: ihs-headache.org
     url: https://ihs-headache.org/
+  - name: ihc2022.org
+    url: https://ihc2022.org/
   - name: ihc2023.org
     url: https://ihc2023.org/
         
