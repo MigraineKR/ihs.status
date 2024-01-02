@@ -4,6 +4,8 @@ repo: ihs.status
 sites:
   - name: ihs-headache.org
     url: https://ihs-headache.org/
+  - name: ihc2023.org
+    url: https://ihc2023.org/
         
 status-website:
   cname: ihs.status.migraine.kr
