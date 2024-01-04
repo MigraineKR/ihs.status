@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ihs-headache.org.ico",
     "slug": "ihs-headache-org",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 2281,
-    "timeDay": 1153,
-    "timeWeek": 1236,
-    "timeMonth": 1264,
-    "timeYear": 2281,
+    "uptimeYear": "99.97%",
+    "time": 2277,
+    "timeDay": 1486,
+    "timeWeek": 1246,
+    "timeMonth": 1269,
+    "timeYear": 2277,
     "dailyMinutesDown": {
       "2023-08-11": 85
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1775,
-    "timeDay": 1775,
-    "timeWeek": 1775,
-    "timeMonth": 1775,
-    "timeYear": 1775,
+    "time": 1873,
+    "timeDay": 2069,
+    "timeWeek": 1873,
+    "timeMonth": 1873,
+    "timeYear": 1873,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 593,
-    "timeDay": 593,
-    "timeWeek": 593,
-    "timeMonth": 593,
-    "timeYear": 593,
+    "time": 644,
+    "timeDay": 799,
+    "timeWeek": 644,
+    "timeMonth": 644,
+    "timeYear": 644,
     "dailyMinutesDown": {}
   }
 ]
