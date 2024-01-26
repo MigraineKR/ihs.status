@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2174,
-    "timeDay": 1214,
-    "timeWeek": 1208,
-    "timeMonth": 1254,
-    "timeYear": 2174,
+    "time": 2169,
+    "timeDay": 1205,
+    "timeWeek": 1226,
+    "timeMonth": 1256,
+    "timeYear": 2169,
     "dailyMinutesDown": {
       "2023-08-11": 85
     }
@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ihc2022.org.ico",
     "slug": "ihc2022-org",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1675,
-    "timeDay": 1473,
-    "timeWeek": 1515,
-    "timeMonth": 1675,
-    "timeYear": 1675,
-    "dailyMinutesDown": {
-      "2024-01-25": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1676,
+    "timeDay": 1402,
+    "timeWeek": 1497,
+    "timeMonth": 1676,
+    "timeYear": 1676,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ihc2023.org",
@@ -51,7 +49,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 676,
-    "timeDay": 635,
+    "timeDay": 667,
     "timeWeek": 625,
     "timeMonth": 676,
     "timeYear": 676,
