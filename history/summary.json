@@ -25,19 +25,19 @@
     "url": "https://ihc2022.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ihc2022.org.ico",
     "slug": "ihc2022-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1842,
-    "timeDay": 1227,
-    "timeWeek": 2072,
-    "timeMonth": 1829,
-    "timeYear": 1842,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1848,
+    "timeDay": 1877,
+    "timeWeek": 2129,
+    "timeMonth": 1851,
+    "timeYear": 1848,
     "dailyMinutesDown": {
-      "2024-04-13": 0
+      "2024-04-13": 8
     }
   },
   {
