@@ -14,7 +14,7 @@
     "timeDay": 1271,
     "timeWeek": 1345,
     "timeMonth": 1734,
-    "timeYear": 1487,
+    "timeYear": 1481,
     "dailyMinutesDown": {
       "2024-03-26": 18
     }
@@ -24,9 +24,9 @@
     "url": "https://ihc2022.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ihc2022.org.ico",
     "slug": "ihc2022-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 1662,
     "timeMonth": 1772,
     "timeYear": 1885,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-27": 0
+    }
   },
   {
     "name": "ihc2023.org",
