@@ -43,19 +43,19 @@
     "url": "https://ihc2023.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ihc2023.org.ico",
     "slug": "ihc2023-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 839,
-    "timeDay": 613,
-    "timeWeek": 676,
-    "timeMonth": 742,
-    "timeYear": 778,
+    "timeDay": 629,
+    "timeWeek": 674,
+    "timeMonth": 739,
+    "timeYear": 777,
     "dailyMinutesDown": {
-      "2025-02-05": 0,
+      "2025-02-05": 15,
       "2024-05-08": 31
     }
   }
