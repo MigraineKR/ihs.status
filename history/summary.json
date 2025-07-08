@@ -26,9 +26,9 @@
     "url": "https://ihc2022.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ihc2022.org.ico",
     "slug": "ihc2022-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 2111,
     "timeMonth": 2044,
     "timeYear": 1934,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-08": 0
+    }
   },
   {
     "name": "ihc2023.org",
