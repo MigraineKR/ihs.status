@@ -4,17 +4,17 @@
     "url": "https://ihs-headache.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ihs-headache.org.ico",
     "slug": "ihs-headache-org",
-    "status": "down",
-    "uptime": "99.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "96.82%",
+    "status": "up",
+    "uptime": "98.99%",
+    "uptimeDay": "89.99%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "96.80%",
     "time": 2743,
-    "timeDay": 3675,
-    "timeWeek": 2365,
-    "timeMonth": 2609,
-    "timeYear": 2865,
+    "timeDay": 2881,
+    "timeWeek": 2246,
+    "timeMonth": 2602,
+    "timeYear": 2864,
     "dailyMinutesDown": {
       "2026-03-10": 145,
       "2026-03-11": 135,
@@ -87,7 +87,8 @@
       "2026-08-18": 48,
       "2026-08-22": 24,
       "2026-08-26": 49,
-      "2026-09-14": 5
+      "2026-09-15": 24,
+      "2026-09-14": 121
     }
   },
   {
@@ -96,7 +97,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ihc2022.org.ico",
     "slug": "ihc2022-org",
     "status": "down",
-    "uptime": "56.06%",
+    "uptime": "56.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -107,7 +108,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-14": 1325,
+      "2026-09-15": 29,
+      "2026-09-14": 1440,
       "2026-09-13": 1440,
       "2026-09-12": 1440,
       "2026-09-11": 1440,
@@ -470,8 +472,7 @@
       "2025-09-19": 1440,
       "2025-09-18": 1440,
       "2025-09-17": 1440,
-      "2025-09-16": 1440,
-      "2025-09-15": 1440
+      "2025-09-16": 1440
     }
   },
   {
@@ -488,8 +489,8 @@
     "time": 2325,
     "timeDay": 1367,
     "timeWeek": 1217,
-    "timeMonth": 3072,
-    "timeYear": 2898,
+    "timeMonth": 3126,
+    "timeYear": 2899,
     "dailyMinutesDown": {
       "2025-09-24": 96,
       "2025-11-12": 25,
