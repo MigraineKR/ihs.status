@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.79%",
-    "time": 2791,
-    "timeDay": 8084,
-    "timeWeek": 3706,
-    "timeMonth": 2173,
-    "timeYear": 2907,
+    "time": 2799,
+    "timeDay": 9517,
+    "timeWeek": 4797,
+    "timeMonth": 2438,
+    "timeYear": 2915,
     "dailyMinutesDown": {
       "2026-03-10": 18,
       "2026-03-11": 135,
@@ -98,7 +98,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ihc2022.org.ico",
     "slug": "ihc2022-org",
     "status": "down",
-    "uptime": "52.32%",
+    "uptime": "52.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -109,7 +109,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-24": 493,
+      "2026-11-25": 410,
+      "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
@@ -472,8 +473,7 @@
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
-      "2025-11-26": 1440,
-      "2025-11-25": 1440
+      "2025-11-26": 1440
     }
   },
   {
@@ -487,10 +487,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
-    "time": 2560,
-    "timeDay": 1151,
-    "timeWeek": 1150,
-    "timeMonth": 1323,
+    "time": 2561,
+    "timeDay": 1045,
+    "timeWeek": 1114,
+    "timeMonth": 1319,
     "timeYear": 2932,
     "dailyMinutesDown": {
       "2025-11-27": 19,
